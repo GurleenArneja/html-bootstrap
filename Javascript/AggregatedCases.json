@@ -1,0 +1,82 @@
+[
+  {
+    "year": "2001",
+    "robberyCount": 18441,
+    "burglaryCount": 26011
+  },
+  {
+    "year": "2002",
+    "robberyCount": 18522,
+    "burglaryCount": 25623
+  },
+  {
+    "year": "2003",
+    "robberyCount": 17332,
+    "burglaryCount": 25156
+  },
+  {
+    "year": "2004",
+    "robberyCount": 15978,
+    "burglaryCount": 24564
+  },
+  {
+    "year": "2005",
+    "robberyCount": 16047,
+    "burglaryCount": 25504
+  },
+  {
+    "year": "2006",
+    "robberyCount": 15968,
+    "burglaryCount": 24324
+  },
+  {
+    "year": "2007",
+    "robberyCount": 15450,
+    "burglaryCount": 24858
+  },
+  {
+    "year": "2008",
+    "robberyCount": 16703,
+    "burglaryCount": 26219
+  },
+  {
+    "year": "2009",
+    "robberyCount": 15979,
+    "burglaryCount": 26765
+  },
+  {
+    "year": "2010",
+    "robberyCount": 14273,
+    "burglaryCount": 26422
+  },
+  {
+    "year": "2011",
+    "robberyCount": 13980,
+    "burglaryCount": 26617
+  },
+  {
+    "year": "2012",
+    "robberyCount": 13483,
+    "burglaryCount": 22841
+  },
+  {
+    "year": "2013",
+    "robberyCount": 11819,
+    "burglaryCount": 17893
+  },
+  {
+    "year": "2014",
+    "robberyCount": 9801,
+    "burglaryCount": 14570
+  },
+  {
+    "year": "2015",
+    "robberyCount": 9647,
+    "burglaryCount": 13162
+  },
+  {
+    "year": "2016",
+    "robberyCount": 3037,
+    "burglaryCount": 3643
+  }
+]
