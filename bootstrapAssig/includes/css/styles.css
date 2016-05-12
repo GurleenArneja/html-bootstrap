@@ -1,0 +1,272 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+   #about,#awards,#recipes,#products,#contact{
+     padding: 70px 70px;
+   }
+  .container-fluid h1{
+     font-size: 50px;
+     font-weight: bold;
+     padding-bottom: 25px;
+     font-family: NeoplantaBG-Bold, serif;
+   }
+   #about p{
+     padding-right: 0px;
+     text-align: justify;
+   }
+   #awards{
+     background-color: #f2f2f2;
+   }
+   #awards p h2 h4{
+     padding-left: 150px;
+     text-align: justify;
+   }
+   .btn{
+     background-color: #326730;
+     font-size: 20px;
+   }
+   #recipes{
+     text-align: center;
+   }
+    li{
+     display: inline;
+     text-transform: uppercase;
+     padding-right: 15px;
+   }
+   .thumbnail{
+     border: none;
+     margin-top: 50px;
+   }
+   .thumbnail img{
+     padding: 20px 0px 0px 20px;
+   }
+   .thumbnail h3{
+      font-family: NeoplantaBG-Bold, serif;
+      letter-spacing: -1px;
+      color: black;
+   }
+   .thumbnail p{
+     text-transform: uppercase;
+     font-size: 14px;
+   }
+   .thumbnails a :hover h3{
+     text-decoration: underline;
+   }
+   #products{
+     background-color: #eef7ee;
+     text-align: center;
+   }
+   #products .panel-title{
+     font-size: 40px;
+     color: #326730;
+     font-weight: bold;
+     font-family: NeoplantaBG-Bold, serif;
+   }
+   #products h3 {
+       font-size: 30px;
+       font-style: italic;
+       font-weight: 400;
+       letter-spacing: 3px;
+       font-family: 'Homemade Apple';
+       padding-bottom: 30px;
+   }
+   #products img{
+     padding-bottom: 20px;
+   }
+   footer{
+     background-color: #191716;
+     padding: 70px 70px 0px;
+     text-align: center;
+   }
+   footer .siteBtn{
+     border: 2px solid #fff;
+     border-radius: 5rem;
+     text-transform: uppercase;
+     background: transparent;
+     font-size: 15px;
+   }
+   footer .siteBtn:hover{
+     background: #326730;
+   }
+   footer li a{
+     text-decoration: underline;
+     padding-right: 20px;
+   }
+   footer li a:hover{
+     color: #fff;
+   }
+   footer .copyright{
+     padding-top: 20px;
+     text-transform: uppercase;
+     color: #565150;
+   }
+   footer .copyright .designedBy{
+     padding-left: 10px;
+     color:#fff;
+     text-transform: capitalize;
+   }
+
+/*contacts */
+  #contact{
+    margin-top: 60px;
+    text-align: center;
+  }
+  #contact h1{
+     font-size: 50px;
+     font-weight: bold;
+     padding-bottom: 25px;
+     font-family: NeoplantaBG-Bold, serif;
+   }
+  #contact .tab-content{
+    text-align: left;
+    padding-top: 20px;
+  }
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+body{
+  font-family: NeoplantaBG-Bold, serif;
+}
+p{
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  color: grey;
+}
+a:hover{
+  color: black;
+  text-decoration: none;
+}
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+.navbar-nav{
+  background-color: #d9d9d9;
+}
+   .navbar {
+       margin-bottom: 0;
+       background-color: #d9d9d9;
+       border: 0;
+       font-size: 15px;
+       color: black;
+       font-weight: bold;
+       letter-spacing: 4px;
+       opacity:0.9;
+       height: 92px;
+   }
+   .navbar-brand{
+     padding-top: 2px;
+     padding-left: 30px;
+   }
+   .navbar-brand img{
+     width: 120px;
+     height: 90px;
+   }
+   .navbar-nav li.active a{
+    color: #fff;
+    background-color:black;
+   }
+   .navbar-nav li a:hover{
+    color: black;
+  }
+
+   #myNavbar{
+     padding-top: 20px;
+   }
+   .navbar-toggle {
+     border-color: black;
+     margin-top: 20px;
+     margin-right: 20px;
+   }
+   .navbar-toggle .icon-bar{
+     background-color: black;
+     width: 25px;
+   }
+   .dropdown-menu li a {
+    color: #000;
+   }
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+   .carousel-inner{
+     height: auto;
+   }
+   .carousel-inner img {
+         width: 100%;
+         margin: auto;
+         background: no repeat;
+     }
+     .carousel-caption h1{
+       font-size: 100px;
+       font-family: NeoplantaBG-Bold, serif;
+       padding-bottom: 15px;
+     }
+     .carousel-caption h3 {
+         font-size: 40px;
+         font-style: italic;
+         font-weight: 400;
+         letter-spacing: 3px;
+         font-family: 'Homemade Apple';
+         padding-bottom: 25px;
+     }
+     .carousel-caption p{
+       font-size:20px;
+       font-style: italic;
+       font-family: NeoplantaBG-Bold, serif;
+       padding-bottom: 25px;
+     }
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+  .col-sm-4 {
+        text-align: center;
+        margin: 15px 0px;
+    }
+    .carousel{
+      margin-top: 92px;
+    }
+    #about,#awards,#recipes,#products,#contact{
+      padding: 10px 25px;
+    }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+  .carousel-caption {
+        display: none;
+  }
+  .col-sm-4 {
+        text-align: center;
+        margin: 25px 0px
+    }
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+}

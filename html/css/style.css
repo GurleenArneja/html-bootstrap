@@ -1,0 +1,178 @@
+/*header section*/
+header{
+  overflow: hidden;
+  position: fixed;
+  background-color: white;
+}
+h2,h3{
+  letter-spacing: -1px;
+}
+header h1{
+  background: url(../Images/GranysSecretLogo.jpg) no-repeat;
+  text-indent: -999px;
+  width: 200px;
+  height: 100px;
+  margin: 10px 10px;
+  float: left;
+}
+.banner{
+  background: url(../Images/banner3.jpg) no-repeat;
+  width:960px;
+  height: 400px;
+  margin-top: 120px;
+}
+.banner h2{
+  letter-spacing: -1px;
+  color: white;
+  font-size: 35px;
+  text-transform: lowercase;
+  text-align: center;
+  padding-top: 150px;
+  text-shadow: 2px 2px 5px #326730;
+  font-family: NeoplantaBG-Bold, serif;
+}
+.banner h2:hover{
+  font-size: 40px;
+}
+/*navigation bar*/
+a{
+  text-decoration: none;
+  color: grey;
+}
+a:hover{
+  color: black;
+}
+nav ul a:hover,nav ul  a:active{
+  color: white;
+  background-color: #326730;
+  padding: 14px 16px;
+}
+nav ul a{
+  text-decoration: none;
+  color: #326730;
+}
+nav{
+  padding-top: 50px;
+  font-size: 20px;
+  font-family: NeoplantaBG-Bold, serif;
+  text-transform: lowercase;
+  font-weight: bold;
+}
+nav li{
+  display: inline;
+}
+nav ul{
+  float: right;
+}
+/*main content*/
+div.polaroid {
+  box-shadow: 0 4px 8px 0 #b3b3b3, 0 6px 20px 0 #b3b3b3;
+  text-align: center;
+  height:400px;
+}
+.polaroid img{
+  width:100%;
+  height:270px;
+}
+div.content {
+  padding-top: 25px;
+  font-family: NeoplantaBG-Bold, serif;
+}
+.content h2{
+  font-size: 30px;
+}
+.content h2:hover{
+  font-size: 33px;
+}
+.content h2:hover + div.hovercontent{
+  color: #326730;
+  display: block;
+}
+div.hovercontent{
+  margin-top: -20px;
+  font-size: 18px;
+  display: none;
+}
+.main a{
+  color: black;
+}
+.main_content img{
+  margin: 50px 10px;
+}
+.main_content .content_container{
+  margin-top: 50px;
+}
+.content_container h3{
+  font-family: NeoplantaBG-Bold, serif;
+  font-size: 26px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 20px;
+
+}
+.content_container p{
+  font-size: 15px;
+  font-family: Lato,sans-serif;
+  line-height: 22px;
+  color: #333;
+  margin: 0 0 10px;
+}
+/*footer*/
+footer{
+  background-color: #191716;
+  color: white;
+  font-family:  NeoplantaBG-Bold, serif;
+  height: 220px;
+}
+.secondarynav h3{
+  padding-top:50px;
+  padding-left: 28px;
+}
+.secondarynav ul{
+  display: inline-table;
+  list-style: none;
+  float: left;
+  font-size: 15px;
+}
+.secondarynav a:hover{
+  color: white;
+}
+.footer_img{
+  padding-top: 50px;
+}
+.footer_img img{
+  width: 80px;
+  height: 80px;
+}
+.footer_bottom p{
+  color:grey;
+  padding-left: 28px;
+}
+/*main content of portfolio*/
+.main_container{
+  padding-top: 150px;
+  text-align: center;
+  font-family: NeoplantaBG-Bold, serif;
+}
+.main_container h1{
+  font-size: 50px;
+}
+.main_container li{
+  display: inline;
+  text-transform: uppercase;
+}
+.portfolio_overlay img{
+  width: 310px;
+  height:225px;
+}
+.portfolio_overlay a{
+  color:black;
+}
+.portfolio_overlay a :hover h3{
+  text-decoration: underline;
+}
+.portfolio_overlay p{
+  text-transform: uppercase;
+  font-weight: normal;
+  color: grey;
+  margin-top: -10px;
+}
