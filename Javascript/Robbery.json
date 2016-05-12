@@ -1,0 +1,58 @@
+[
+  {
+    "case": "AGGRAVATED",
+    "percentage": 4.889163649209573
+  },
+  {
+    "case": "AGGRAVATED VEHICULAR HIJACKING",
+    "percentage": 3.5785569195442903
+  },
+  {
+    "case": "ARMED: HANDGUN",
+    "percentage": 35.04857369954959
+  },
+  {
+    "case": "ARMED: OTHER DANGEROUS WEAPON",
+    "percentage": 5.045041066855074
+  },
+  {
+    "case": "ARMED: OTHER FIREARM",
+    "percentage": 0.5250375342223792
+  },
+  {
+    "case": "ARMED:KNIFE/CUTTING INSTRUMENT",
+    "percentage": 4.640113044246225
+  },
+  {
+    "case": "ATTEMPT: AGGRAVATED",
+    "percentage": 0.3250022078954341
+  },
+  {
+    "case": "ATTEMPT: ARMED-HANDGUN",
+    "percentage": 3.1948246931025346
+  },
+  {
+    "case": "ATTEMPT: ARMED-KNIFE/CUT INSTR",
+    "percentage": 0.8354676322529364
+  },
+  {
+    "case": "ATTEMPT: ARMED-OTHER DANG WEAP",
+    "percentage": 0.8076481497836262
+  },
+  {
+    "case": "ATTEMPT: ARMED-OTHER FIREARM",
+    "percentage": 0.11127792987724101
+  },
+  {
+    "case": "ATTEMPT: STRONGARM-NO WEAPON",
+    "percentage": 3.938443875298066
+  },
+  {
+    "case": "STRONGARM - NO WEAPON",
+    "percentage": 35.201801642674205
+  },
+  {
+    "case": "VEHICULAR HIJACKING",
+    "percentage": 1.8590479554888282
+  }
+]

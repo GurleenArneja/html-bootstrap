@@ -1,0 +1,98 @@
+[
+  {
+    "year": "2001",
+    "criminalDamageCount": 27927,
+    "vehicleCount": 27258,
+    "stateSupCount": 621
+  },
+  {
+    "year": "2002",
+    "criminalDamageCount": 26933,
+    "vehicleCount": 27042,
+    "stateSupCount": 641
+  },
+  {
+    "year": "2003",
+    "criminalDamageCount": 24916,
+    "vehicleCount": 26786,
+    "stateSupCount": 589
+  },
+  {
+    "year": "2004",
+    "criminalDamageCount": 24664,
+    "vehicleCount": 25241,
+    "stateSupCount": 520
+  },
+  {
+    "year": "2005",
+    "criminalDamageCount": 25043,
+    "vehicleCount": 25827,
+    "stateSupCount": 461
+  },
+  {
+    "year": "2006",
+    "criminalDamageCount": 25564,
+    "vehicleCount": 26146,
+    "stateSupCount": 442
+  },
+  {
+    "year": "2007",
+    "criminalDamageCount": 23974,
+    "vehicleCount": 24441,
+    "stateSupCount": 358
+  },
+  {
+    "year": "2008",
+    "criminalDamageCount": 23320,
+    "vehicleCount": 25104,
+    "stateSupCount": 314
+  },
+  {
+    "year": "2009",
+    "criminalDamageCount": 21065,
+    "vehicleCount": 21973,
+    "stateSupCount": 260
+  },
+  {
+    "year": "2010",
+    "criminalDamageCount": 18079,
+    "vehicleCount": 18910,
+    "stateSupCount": 244
+  },
+  {
+    "year": "2011",
+    "criminalDamageCount": 17078,
+    "vehicleCount": 16998,
+    "stateSupCount": 207
+  },
+  {
+    "year": "2012",
+    "criminalDamageCount": 16500,
+    "vehicleCount": 16505,
+    "stateSupCount": 207
+  },
+  {
+    "year": "2013",
+    "criminalDamageCount": 14248,
+    "vehicleCount": 13837,
+    "stateSupCount": 179
+  },
+  {
+    "year": "2014",
+    "criminalDamageCount": 12867,
+    "vehicleCount": 12697,
+    "stateSupCount": 176
+  },
+  {
+    "year": "2015",
+    "criminalDamageCount": 13287,
+    "vehicleCount": 13630,
+    "stateSupCount": 155
+  },
+  {
+    "year": "2016",
+    "criminalDamageCount": 4016,
+    "vehicleCount": 4099,
+    "stateSupCount": 40
+  }
+]
