@@ -1,0 +1,192 @@
+[
+  {
+    "country": "Afghanistan",
+    "FLifeExpectancy": 2569.334,
+    "MLifeExpectancy": 2468.2380000000003
+  },
+  {
+    "country": "Armenia",
+    "FLifeExpectancy": 3969.571,
+    "MLifeExpectancy": 3624.3450000000003
+  },
+  {
+    "country": "Azerbaijan",
+    "FLifeExpectancy": 3743.1940000000004,
+    "MLifeExpectancy": 3357.9060000000013
+  },
+  {
+    "country": "Bahrain",
+    "FLifeExpectancy": 3834.3919999999994,
+    "MLifeExpectancy": 3671.182
+  },
+  {
+    "country": "Bangladesh",
+    "FLifeExpectancy": 3121.2400000000007,
+    "MLifeExpectancy": 3079.1509999999994
+  },
+  {
+    "country": "Bhutan",
+    "FLifeExpectancy": 2709.1059999999998,
+    "MLifeExpectancy": 2705.8179999999993
+  },
+  {
+    "country": "Cambodia",
+    "FLifeExpectancy": 2729.223,
+    "MLifeExpectancy": 2481.4060000000004
+  },
+  {
+    "country": "China",
+    "FLifeExpectancy": 3663.981999999999,
+    "MLifeExpectancy": 3512.6280000000006
+  },
+  {
+    "country": "Cyprus",
+    "FLifeExpectancy": 4191.798999999999,
+    "MLifeExpectancy": 3968.558
+  },
+  {
+    "country": "Georgia",
+    "FLifeExpectancy": 3968.3079999999995,
+    "MLifeExpectancy": 3561.1319999999996
+  },
+  {
+    "country": "India",
+    "FLifeExpectancy": 3030.455999999999,
+    "MLifeExpectancy": 3005.0540000000005
+  },
+  {
+    "country": "Indonesia",
+    "FLifeExpectancy": 3369.975,
+    "MLifeExpectancy": 3210.1210000000005
+  },
+  {
+    "country": "Iraq",
+    "FLifeExpectancy": 3556.2320000000013,
+    "MLifeExpectancy": 3320.359
+  },
+  {
+    "country": "Japan",
+    "FLifeExpectancy": 4328.5599999999995,
+    "MLifeExpectancy": 4019.0200000000004
+  },
+  {
+    "country": "Jordan",
+    "FLifeExpectancy": 3671.2609999999995,
+    "MLifeExpectancy": 3534.697999999999
+  },
+  {
+    "country": "Kazakhstan",
+    "FLifeExpectancy": 3801.016,
+    "MLifeExpectancy": 3244.7419999999997
+  },
+  {
+    "country": "Kuwait",
+    "FLifeExpectancy": 3845.3699999999985,
+    "MLifeExpectancy": 3723.3570000000004
+  },
+  {
+    "country": "Lebanon",
+    "FLifeExpectancy": 3907.901,
+    "MLifeExpectancy": 3716.992
+  },
+  {
+    "country": "Malaysia",
+    "FLifeExpectancy": 3815.1529999999993,
+    "MLifeExpectancy": 3636.4629999999993
+  },
+  {
+    "country": "Maldives",
+    "FLifeExpectancy": 3145.6780000000003,
+    "MLifeExpectancy": 3143.1780000000003
+  },
+  {
+    "country": "Mongolia",
+    "FLifeExpectancy": 3352.8750000000005,
+    "MLifeExpectancy": 3057.615999999999
+  },
+  {
+    "country": "Nepal",
+    "FLifeExpectancy": 2844.4400000000005,
+    "MLifeExpectancy": 2773.526
+  },
+  {
+    "country": "Oman",
+    "FLifeExpectancy": 3476.6820000000016,
+    "MLifeExpectancy": 3294.632
+  },
+  {
+    "country": "Pakistan",
+    "FLifeExpectancy": 3167.3220000000006,
+    "MLifeExpectancy": 3109.844
+  },
+  {
+    "country": "Philippines",
+    "FLifeExpectancy": 3582.6059999999993,
+    "MLifeExpectancy": 3315.802
+  },
+  {
+    "country": "Qatar",
+    "FLifeExpectancy": 4002.646000000001,
+    "MLifeExpectancy": 3866.3430000000008
+  },
+  {
+    "country": "Saudi Arabia",
+    "FLifeExpectancy": 3552.9369999999994,
+    "MLifeExpectancy": 3364.800999999999
+  },
+  {
+    "country": "Singapore",
+    "FLifeExpectancy": 4139.221,
+    "MLifeExpectancy": 3853.036
+  },
+  {
+    "country": "Sri Lanka",
+    "FLifeExpectancy": 3847.39,
+    "MLifeExpectancy": 3544.121999999999
+  },
+  {
+    "country": "Tajikistan",
+    "FLifeExpectancy": 3546.159999999999,
+    "MLifeExpectancy": 3225.8390000000004
+  },
+  {
+    "country": "Thailand",
+    "FLifeExpectancy": 3747.539,
+    "MLifeExpectancy": 3417.6310000000008
+  },
+  {
+    "country": "Timor-Leste",
+    "FLifeExpectancy": 2629.3740000000003,
+    "MLifeExpectancy": 2509.1509999999994
+  },
+  {
+    "country": "Turkey",
+    "FLifeExpectancy": 3522.7479999999996,
+    "MLifeExpectancy": 3161.9549999999995
+  },
+  {
+    "country": "Turkmenistan",
+    "FLifeExpectancy": 3521.062,
+    "MLifeExpectancy": 3115.044000000001
+  },
+  {
+    "country": "United Arab Emirates",
+    "FLifeExpectancy": 3793.3969999999995,
+    "MLifeExpectancy": 3626.2340000000004
+  },
+  {
+    "country": "Uzbekistan",
+    "FLifeExpectancy": 3706.6890000000008,
+    "MLifeExpectancy": 3343.0779999999995
+  },
+  {
+    "country": "Vietnam",
+    "FLifeExpectancy": 3937.3070000000002,
+    "MLifeExpectancy": 3441.446
+  },
+  {
+    "country": "Israel",
+    "FLifeExpectancy": 3892.640000000001,
+    "MLifeExpectancy": 3716.929999999999
+  }
+]

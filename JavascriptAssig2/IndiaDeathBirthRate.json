@@ -1,0 +1,272 @@
+[
+  {
+    "year": "1960",
+    "brithRate": "42.107",
+    "deathRate": "22.423"
+  },
+  {
+    "year": "1961",
+    "brithRate": "41.865",
+    "deathRate": "21.877"
+  },
+  {
+    "year": "1962",
+    "brithRate": "41.602",
+    "deathRate": "21.337"
+  },
+  {
+    "year": "1963",
+    "brithRate": "41.317",
+    "deathRate": "20.8"
+  },
+  {
+    "year": "1964",
+    "brithRate": "41.013",
+    "deathRate": "20.267"
+  },
+  {
+    "year": "1965",
+    "brithRate": "40.696",
+    "deathRate": "19.739"
+  },
+  {
+    "year": "1966",
+    "brithRate": "40.374",
+    "deathRate": "19.217"
+  },
+  {
+    "year": "1967",
+    "brithRate": "40.057",
+    "deathRate": "18.703"
+  },
+  {
+    "year": "1968",
+    "brithRate": "39.747",
+    "deathRate": "18.199"
+  },
+  {
+    "year": "1969",
+    "brithRate": "39.447",
+    "deathRate": "17.706"
+  },
+  {
+    "year": "1970",
+    "brithRate": "39.15",
+    "deathRate": "17.224"
+  },
+  {
+    "year": "1971",
+    "brithRate": "38.847",
+    "deathRate": "16.752"
+  },
+  {
+    "year": "1972",
+    "brithRate": "38.529",
+    "deathRate": "16.29"
+  },
+  {
+    "year": "1973",
+    "brithRate": "38.193",
+    "deathRate": "15.84"
+  },
+  {
+    "year": "1974",
+    "brithRate": "37.842",
+    "deathRate": "15.403"
+  },
+  {
+    "year": "1975",
+    "brithRate": "37.491",
+    "deathRate": "14.985"
+  },
+  {
+    "year": "1976",
+    "brithRate": "37.156",
+    "deathRate": "14.59"
+  },
+  {
+    "year": "1977",
+    "brithRate": "36.852",
+    "deathRate": "14.222"
+  },
+  {
+    "year": "1978",
+    "brithRate": "36.58",
+    "deathRate": "13.881"
+  },
+  {
+    "year": "1979",
+    "brithRate": "36.334",
+    "deathRate": "13.569"
+  },
+  {
+    "year": "1980",
+    "brithRate": "36.098",
+    "deathRate": "13.283"
+  },
+  {
+    "year": "1981",
+    "brithRate": "35.85",
+    "deathRate": "13.023"
+  },
+  {
+    "year": "1982",
+    "brithRate": "35.565",
+    "deathRate": "12.783"
+  },
+  {
+    "year": "1983",
+    "brithRate": "35.227",
+    "deathRate": "12.556"
+  },
+  {
+    "year": "1984",
+    "brithRate": "34.828",
+    "deathRate": "12.336"
+  },
+  {
+    "year": "1985",
+    "brithRate": "34.366",
+    "deathRate": "12.116"
+  },
+  {
+    "year": "1986",
+    "brithRate": "33.844",
+    "deathRate": "11.887"
+  },
+  {
+    "year": "1987",
+    "brithRate": "33.281",
+    "deathRate": "11.647"
+  },
+  {
+    "year": "1988",
+    "brithRate": "32.694",
+    "deathRate": "11.395"
+  },
+  {
+    "year": "1989",
+    "brithRate": "32.095",
+    "deathRate": "11.131"
+  },
+  {
+    "year": "1990",
+    "brithRate": "31.498",
+    "deathRate": "10.858"
+  },
+  {
+    "year": "1991",
+    "brithRate": "30.912",
+    "deathRate": "10.581"
+  },
+  {
+    "year": "1992",
+    "brithRate": "30.343",
+    "deathRate": "10.307"
+  },
+  {
+    "year": "1993",
+    "brithRate": "29.794",
+    "deathRate": "10.043"
+  },
+  {
+    "year": "1994",
+    "brithRate": "29.267",
+    "deathRate": "9.793"
+  },
+  {
+    "year": "1995",
+    "brithRate": "28.766",
+    "deathRate": "9.563"
+  },
+  {
+    "year": "1996",
+    "brithRate": "28.286",
+    "deathRate": "9.352"
+  },
+  {
+    "year": "1997",
+    "brithRate": "27.822",
+    "deathRate": "9.161"
+  },
+  {
+    "year": "1998",
+    "brithRate": "27.365",
+    "deathRate": "8.986"
+  },
+  {
+    "year": "1999",
+    "brithRate": "26.911",
+    "deathRate": "8.828"
+  },
+  {
+    "year": "2000",
+    "brithRate": "26.459",
+    "deathRate": "8.684"
+  },
+  {
+    "year": "2001",
+    "brithRate": "26.004",
+    "deathRate": "8.553"
+  },
+  {
+    "year": "2002",
+    "brithRate": "25.547",
+    "deathRate": "8.433"
+  },
+  {
+    "year": "2003",
+    "brithRate": "25.087",
+    "deathRate": "8.32"
+  },
+  {
+    "year": "2004",
+    "brithRate": "24.622",
+    "deathRate": "8.213"
+  },
+  {
+    "year": "2005",
+    "brithRate": "24.146",
+    "deathRate": "8.109"
+  },
+  {
+    "year": "2006",
+    "brithRate": "23.653",
+    "deathRate": "8.005"
+  },
+  {
+    "year": "2007",
+    "brithRate": "23.144",
+    "deathRate": "7.901"
+  },
+  {
+    "year": "2008",
+    "brithRate": "22.625",
+    "deathRate": "7.8"
+  },
+  {
+    "year": "2009",
+    "brithRate": "22.103",
+    "deathRate": "7.7"
+  },
+  {
+    "year": "2010",
+    "brithRate": "21.595",
+    "deathRate": "7.606"
+  },
+  {
+    "year": "2011",
+    "brithRate": "21.116",
+    "deathRate": "7.52"
+  },
+  {
+    "year": "2012",
+    "brithRate": "20.679",
+    "deathRate": "7.446"
+  },
+  {
+    "year": "2013",
+    "brithRate": "20.291",
+    "deathRate": "7.385"
+  }
+]

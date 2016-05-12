@@ -1,2 +1,0 @@
-https://github.com/GurleenArneja/html-bootstrap/tree/master/Javascript
-/home/gurleen.arneja/public_html/Javascript
